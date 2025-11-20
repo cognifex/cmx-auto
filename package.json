@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "js-yaml": "^4.1.1",
+    "nodemailer": "^7.0.10",
+    "puppeteer": "^24.30.0"
+  }
+}

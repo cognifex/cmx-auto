@@ -1,0 +1,55 @@
+# E-Mail-Templates für Statuswechsel
+# ----------------------------------
+# Placeholders (werden per {{placeholder}} ersetzt):
+#   participantFirstName, participantLastName
+#   courseName, courseId, courseUrl
+#   courseStatus
+#   appointments        (Array wird als Komma-getrenntes String gerendert)
+#   appointmentsText    (Zeilenweise Aufzählung, z. B. "- 12.01.2026 18:00 ...")
+#
+# Die Vorlage unter "default" wird genutzt, wenn es keine spezifische
+# Vorlage für den Trigger-Status gibt. Unter "statusTemplates" können
+# Templates pro Status (z. B. "ausgefallen", "Idee", "planbar") hinterlegt werden.
+
+default:
+  subject: "Ihre Veranstaltung wurde abgesagt"
+  text: |
+    Hallo {{participantFirstName}} {{participantLastName}},
+
+    die von Ihnen gebuchte Veranstaltung "{{courseName}}" wurde leider abgesagt.
+    Wir informieren Sie über Ersatztermine oder Alternativen, sobald verfügbar.
+
+    Betroffene Termine:
+    {{appointmentsText}}
+
+    Mit freundlichen Grüßen
+    Ihre VHS Lahnstein
+
+statusTemplates:
+  ausgefallen:
+    subject: "Absage: {{courseName}}"
+    text: |
+      Hallo {{participantFirstName}} {{participantLastName}},
+
+      leider müssen wir die Veranstaltung "{{courseName}}" absagen.
+      Betroffene Termine:
+      {{appointmentsText}}
+
+      Wir melden uns, sobald ein Ersatztermin feststeht.
+
+      Vielen Dank für Ihr Verständnis.
+      Ihre VHS Lahnstein
+
+  Idee:
+    subject: "Info: {{courseName}} hat neuen Status"
+    text: |
+      Hallo {{participantFirstName}} {{participantLastName}},
+
+      die Veranstaltung "{{courseName}}" ist jetzt im Status "{{courseStatus}}".
+      Wir informieren Sie, sobald es weitere Neuigkeiten gibt.
+
+      Geplante Termine:
+      {{appointmentsText}}
+
+      Viele Grüße
+      Ihre VHS Lahnstein

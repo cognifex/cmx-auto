@@ -1,0 +1,23 @@
+# Konfigurationsdatei für CMX-Kurse
+# ---------------------------------
+# In dieser Datei kannst du festlegen,
+# - welche Kurse überwacht werden sollen
+# - auf welchen Status pro Kurs reagiert werden soll
+#
+# Diese Datei wird direkt von `index.js` eingelesen.
+# Stelle sicher, dass alle URLs vollständig sind (inkl. https://).
+
+# Standard-Status, auf den reagiert werden soll,
+# falls bei einem Kurs kein eigener triggerStatus gesetzt ist.
+defaultTriggerStatus: "ausgefallen"
+
+# Liste der zu überwachenden Kurse
+courses:
+  # Erster Kurs
+  - id: "cmx691e0accefbcd"  # optional, zur eigenen Orientierung
+    name: "Mail Test"  # optional, nur zur Lesbarkeit
+    url: "https://vhs-lahnstein.de/App%20Veranstaltung/cmx691e0accefbcd.html"
+
+    # Status, auf den reagiert werden soll.
+    # Wenn weggelassen, wird defaultTriggerStatus verwendet.
+    triggerStatus: "Idee"
