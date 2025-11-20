@@ -1,0 +1,1791 @@
+{
+  "cmx691e0accefbcd": [
+    {
+      "ts": "2025-11-20T18:36:32.934Z",
+      "status": "Idee",
+      "appointments": [
+        "20.11.2025 19:30",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.010Z",
+      "status": "planbar",
+      "appointments": [
+        "20.11.2025 19:41",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:46:09.824Z",
+      "status": "planbar",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.706Z",
+      "status": "Idee",
+      "appointments": [
+        "20.11.2025 20:09",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T19:25:39.136Z",
+      "status": "planbar",
+      "appointments": [
+        "20.11.2025 20:22",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T20:06:00.032Z",
+      "status": "Idee",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.147Z",
+      "status": "planbar",
+      "appointments": [
+        "20.11.2025 21:15"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:14:33.747Z",
+      "status": "Idee",
+      "appointments": [
+        "20.11.2025 22:11"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:28:33.208Z",
+      "status": "planbar",
+      "appointments": [
+        "20.11.2025 22:25"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:33:35.145Z",
+      "status": "Idee",
+      "appointments": [
+        "20.11.2025 22:30"
+      ]
+    }
+  ],
+  "cmx6902454ff2b53": [
+    {
+      "ts": "2025-11-20T18:35:04.456Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:55",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.446Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.652Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.583Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.532Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:05:59.865Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.381Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.858Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:27:04.809Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:55"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:31:39.437Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:55"
+      ]
+    }
+  ],
+  "cmx688a1350f1c7b": [
+    {
+      "ts": "2025-11-20T18:35:10.765Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 13:09",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.459Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.664Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.599Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.545Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:05:59.879Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.389Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.859Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:27:11.128Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 13:09"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:31:45.724Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 13:09"
+      ]
+    }
+  ],
+  "cmx688a13506c670": [
+    {
+      "ts": "2025-11-20T18:35:17.108Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:59",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.472Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.676Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.618Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.557Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:05:59.891Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.396Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.861Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:27:17.452Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:59"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:31:52.023Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:59"
+      ]
+    }
+  ],
+  "cmx6902454f7c638": [
+    {
+      "ts": "2025-11-20T18:35:23.424Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:53",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.483Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.689Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.632Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.570Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:05:59.904Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.403Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.862Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:27:23.759Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:53"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:31:58.284Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:53"
+      ]
+    }
+  ],
+  "cmx6901fffb836fd": [
+    {
+      "ts": "2025-11-20T18:35:29.770Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:53",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.495Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.700Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.646Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.581Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:05:59.921Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.409Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.863Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:27:30.120Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:53"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:32:04.539Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:53"
+      ]
+    }
+  ],
+  "cmx689e0f36ca40d": [
+    {
+      "ts": "2025-11-20T18:35:36.094Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:32",
+        "00.00.0000",
+        "31.12.2025"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.507Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.711Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.657Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.593Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:05:59.932Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.415Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.864Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:27:36.461Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:32",
+        "31.12.2025"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:32:10.820Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:32",
+        "31.12.2025"
+      ]
+    }
+  ],
+  "cmx6915ad1249580": [
+    {
+      "ts": "2025-11-20T18:35:42.387Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "14.11.2025 16:13",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.517Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.724Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.668Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.604Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:05:59.945Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.421Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.865Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:27:42.770Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "14.11.2025 16:13"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:32:17.109Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "14.11.2025 16:13"
+      ]
+    }
+  ],
+  "cmx6901f7f5a7c53": [
+    {
+      "ts": "2025-11-20T18:35:55.036Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:25",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.541Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.748Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.692Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.627Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:05:59.970Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.431Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.867Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:27:55.401Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:25"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:32:29.719Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:25"
+      ]
+    }
+  ],
+  "cmx690245442fc3f": [
+    {
+      "ts": "2025-11-20T18:35:48.723Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:50",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.529Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.735Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.680Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.615Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:05:59.957Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.426Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.866Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:27:49.064Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:50"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:32:23.411Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:50"
+      ]
+    }
+  ],
+  "cmx6841632ff307f": [
+    {
+      "ts": "2025-11-20T18:36:01.347Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:00",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.552Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.760Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.704Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.638Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:05:59.979Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.436Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.868Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:28:01.702Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:00"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:32:36.045Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 12:00"
+      ]
+    }
+  ],
+  "cmx681b39a64c406": [
+    {
+      "ts": "2025-11-20T18:36:07.616Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:27",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.565Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.772Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.716Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.649Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:05:59.990Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.442Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.869Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:28:07.974Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:27"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:32:42.302Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:27"
+      ]
+    }
+  ],
+  "cmx688a1350af8e7": [
+    {
+      "ts": "2025-11-20T18:36:13.970Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:31",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.578Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.787Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.728Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.662Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.000Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.446Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.870Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:28:14.254Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:31"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:32:48.602Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:31"
+      ]
+    }
+  ],
+  "cmx689e164a2b05b": [
+    {
+      "ts": "2025-11-20T18:36:20.298Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:23",
+        "00.00.0000",
+        "28.11.2025"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.590Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.798Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.739Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.673Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.013Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.450Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.871Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:28:20.581Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:23",
+        "28.11.2025"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:32:54.902Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:23",
+        "28.11.2025"
+      ]
+    }
+  ],
+  "cmx69023ce59509f": [
+    {
+      "ts": "2025-11-20T18:36:26.605Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:15",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:41:57.601Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.810Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:10:33.751Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:23:23.685Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.023Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:16:56.454Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:12:14.872Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:28:26.902Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:15"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:33:01.154Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:15"
+      ]
+    }
+  ],
+  "cmx68416330501e6": [
+    {
+      "ts": "2025-11-20T18:36:39.288Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:48",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.026Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.834Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.719Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.148Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.043Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.152Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.749Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:28:39.554Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:48"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:33:42.115Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 17:48"
+      ]
+    }
+  ],
+  "cmx6841633098f32": [
+    {
+      "ts": "2025-11-20T18:36:45.597Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 13:06",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.042Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.846Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.731Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.161Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.051Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.156Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.750Z",
+      "status": "in Durchführung",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:28:45.866Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 13:06"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:33:48.420Z",
+      "status": "in Durchführung",
+      "appointments": [
+        "29.10.2025 13:06"
+      ]
+    }
+  ],
+  "cmx689dc761d28fa": [
+    {
+      "ts": "2025-11-20T18:36:51.908Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "20.11.2025 16:14",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.055Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.857Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.743Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.172Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.059Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.159Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.751Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:28:52.216Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "20.11.2025 16:14"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:33:54.687Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "20.11.2025 16:14"
+      ]
+    }
+  ],
+  "cmx6841632fb41ed": [
+    {
+      "ts": "2025-11-20T18:36:58.249Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "13.11.2025 14:18",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.066Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.868Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.755Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.184Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.067Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.163Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.752Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:28:58.467Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "13.11.2025 14:18"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:34:00.979Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "13.11.2025 14:18"
+      ]
+    }
+  ],
+  "cmx690200cd2dac3": [
+    {
+      "ts": "2025-11-20T18:37:04.563Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "13.11.2025 11:46",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.077Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.881Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.765Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.195Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.076Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.167Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.754Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:29:04.797Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "13.11.2025 11:46"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:34:07.278Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "13.11.2025 11:46"
+      ]
+    }
+  ],
+  "cmx689ddace7b3e4": [
+    {
+      "ts": "2025-11-20T18:37:10.904Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "13.11.2025 10:59",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.089Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.892Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.776Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.206Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.083Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.172Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.755Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:29:11.085Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "13.11.2025 10:59"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:34:13.586Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "13.11.2025 10:59"
+      ]
+    }
+  ],
+  "cmx6901fd896c666": [
+    {
+      "ts": "2025-11-20T18:37:17.259Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "12.11.2025 11:43",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.100Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.904Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.788Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.218Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.091Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.175Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.756Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:29:17.375Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "12.11.2025 11:43"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:34:19.898Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "12.11.2025 11:43"
+      ]
+    }
+  ],
+  "cmx68ee13b745e42": [
+    {
+      "ts": "2025-11-20T18:37:23.581Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "12.11.2025 11:46",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.111Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.915Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.798Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.229Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.098Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.178Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.757Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:29:23.650Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "12.11.2025 11:46"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:34:26.196Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "12.11.2025 11:46"
+      ]
+    }
+  ],
+  "cmx690203686eb9c": [
+    {
+      "ts": "2025-11-20T18:37:29.877Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "07.11.2025 12:15",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.123Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.926Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.816Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.240Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.106Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.180Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.758Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:29:29.969Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "07.11.2025 12:15"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:34:32.483Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "07.11.2025 12:15"
+      ]
+    }
+  ],
+  "cmx681b41e14bbb3": [
+    {
+      "ts": "2025-11-20T18:37:36.207Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "28.10.2025 10:39",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.134Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.939Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.827Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.253Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.116Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.182Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.759Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:29:36.268Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "28.10.2025 10:39"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:34:38.779Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "28.10.2025 10:39"
+      ]
+    }
+  ],
+  "cmx62ff46dbac565": [
+    {
+      "ts": "2025-11-20T18:37:42.550Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "28.10.2025 10:40",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.145Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.950Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.841Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.263Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.123Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.185Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.760Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:29:42.567Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "28.10.2025 10:40"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:34:45.109Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "28.10.2025 10:40"
+      ]
+    }
+  ],
+  "cmx6183b18f12d8b": [
+    {
+      "ts": "2025-11-20T18:37:48.885Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "28.10.2025 11:19",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.158Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.961Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.855Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.275Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.130Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.187Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.761Z",
+      "status": "abgeschlossen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:29:48.868Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "28.10.2025 11:19"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:34:51.417Z",
+      "status": "abgeschlossen",
+      "appointments": [
+        "28.10.2025 11:19"
+      ]
+    }
+  ],
+  "cmx6901f3f6bd81a": [
+    {
+      "ts": "2025-11-20T18:37:55.205Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "18.11.2025 11:24",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.169Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.974Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.868Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.287Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.137Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.189Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.762Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:29:55.129Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "18.11.2025 11:24"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:34:57.751Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "18.11.2025 11:24"
+      ]
+    }
+  ],
+  "cmx689da7cd64950": [
+    {
+      "ts": "2025-11-20T18:38:01.532Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "28.10.2025 08:33",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.181Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:09.986Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.881Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.297Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.144Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.190Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.763Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:30:01.406Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "28.10.2025 08:33"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:35:04.088Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "28.10.2025 08:33"
+      ]
+    }
+  ],
+  "cmx688a1350201d3": [
+    {
+      "ts": "2025-11-20T18:38:07.861Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "30.10.2025 11:27",
+        "00.00.0000"
+      ]
+    },
+    {
+      "ts": "2025-11-20T18:42:32.195Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T18:46:10.000Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:12:49.896Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T19:25:39.309Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:06:00.150Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T20:19:12.192Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:14:33.764Z",
+      "status": "ausgefallen",
+      "appointments": []
+    },
+    {
+      "ts": "2025-11-20T21:30:07.662Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "30.10.2025 11:27"
+      ]
+    },
+    {
+      "ts": "2025-11-20T21:35:10.387Z",
+      "status": "ausgefallen",
+      "appointments": [
+        "30.10.2025 11:27"
+      ]
+    }
+  ]
+}

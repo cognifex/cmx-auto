@@ -1,0 +1,26 @@
+[
+  {
+    "name": "cmxcmx",
+    "value": "3qk4ib5tepq87su6be015lui9l",
+    "domain": "vhs-lahnstein.de",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "cmxInterpreter",
+    "value": "5t3ndkm50ctt5se159v2rhbp3c",
+    "domain": "vhs-lahnstein.de",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "LIDe265841301c58f0e2879edf061bf35e",
+    "value": "3f2a264dd94f80aba23ab1762251771d",
+    "domain": "vhs-lahnstein.de",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  }
+]

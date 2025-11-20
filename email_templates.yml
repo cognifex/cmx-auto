@@ -6,7 +6,7 @@
 #   courseStatus
 #   appointments        (Array wird als Komma-getrenntes String gerendert)
 #   appointmentsText    (Zeilenweise Aufzählung, z. B. "- 12.01.2026 18:00 ...")
-#
+#   footer              (Weitere Kurse von mir finden Sie hier: {{instructorProfileUrl}} Bei Fragen erreichen Sie mich unter: info@example.com)
 # Die Vorlage unter "default" wird genutzt, wenn es keine spezifische
 # Vorlage für den Trigger-Status gibt. Unter "statusTemplates" können
 # Templates pro Status (z. B. "ausgefallen", "Idee", "planbar") hinterlegt werden.
@@ -22,8 +22,15 @@ default:
     Betroffene Termine:
     {{appointmentsText}}
 
+    Ich würde mich sehr freuen, Sie dafür stattdessen in einem meiner kommenden Kurse zu begrüßen.
+    {{recommendedCoursesText}}
+
     Mit freundlichen Grüßen
     Ihre VHS Lahnstein
+
+  footer: |
+    Weitere Kurse von mir finden Sie hier: {{instructorProfileUrl}}
+    Bei Fragen erreichen Sie mich unter: tim.heimes@cognifaktur.ai
 
 statusTemplates:
   ausgefallen:

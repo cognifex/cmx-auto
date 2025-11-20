@@ -1,23 +1,92 @@
-# Konfigurationsdatei für CMX-Kurse
-# ---------------------------------
-# In dieser Datei kannst du festlegen,
-# - welche Kurse überwacht werden sollen
-# - auf welchen Status pro Kurs reagiert werden soll
-#
-# Diese Datei wird direkt von `index.js` eingelesen.
-# Stelle sicher, dass alle URLs vollständig sind (inkl. https://).
-
-# Standard-Status, auf den reagiert werden soll,
-# falls bei einem Kurs kein eigener triggerStatus gesetzt ist.
-defaultTriggerStatus: "ausgefallen"
-
-# Liste der zu überwachenden Kurse
+defaultTriggerStatus: Idee
 courses:
-  # Erster Kurs
-  - id: "cmx691e0accefbcd"  # optional, zur eigenen Orientierung
-    name: "Mail Test"  # optional, nur zur Lesbarkeit
-    url: "https://vhs-lahnstein.de/App%20Veranstaltung/cmx691e0accefbcd.html"
-
-    # Status, auf den reagiert werden soll.
-    # Wenn weggelassen, wird defaultTriggerStatus verwendet.
-    triggerStatus: "Idee"
+  - id: cmx6902454ff2b53
+    name: 2/25 » PC6-KI-251-4 » Alle wissen Bescheid - KI als Wissensmultiplikator (...)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx6902454ff2b53.html
+  - id: cmx688a1350f1c7b
+    name: 2/25 » PC5-KI-251-2 » KI-Techniken für Fortgeschrittene mit (...)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx688a1350f1c7b.html
+  - id: cmx688a13506c670
+    name: PC8-KI-251-1 » Lieder für jede Lebenslage - Mit KI (...)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx688a13506c670.html
+  - id: cmx6902454f7c638
+    name: '2/25 » PC6-KI-251-3 » Gute Kinderstube für KI: Zeige der (...)'
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx6902454f7c638.html
+  - id: cmx6901fffb836fd
+    name: 2/25 » PC3-KI-251-2 » KI-Text-bis-Buch
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx6901fffb836fd.html
+  - id: cmx689e0f36ca40d
+    name: 2/25 » PC5-KI-252-5 » WordPress
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx689e0f36ca40d.html
+  - id: cmx6915ad1249580
+    name: 2/25 » PC7-KI-251-1 » Digital unterwegs – Basic (Apple)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx6915ad1249580.html
+  - id: cmx690245442fc3f
+    name: '2/25 » PC6-KI-251-2 » Dein Wissen, clever sortiert: So baust (...)'
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx690245442fc3f.html
+  - id: cmx6901f7f5a7c53
+    name: 2/25 » PC4-KI-252-6 » Strukturiertes Datenmanagement
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx6901f7f5a7c53.html
+  - id: cmx6841632ff307f
+    name: 2/25 » PC4-KI-252-1 » Einführung in die KI
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx6841632ff307f.html
+  - id: cmx681b39a64c406
+    name: '2/25 » PC4-KI-251-1 » Kein Nerd-Wissen nötig: So einfach (...)'
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx681b39a64c406.html
+  - id: cmx688a1350af8e7
+    name: '2/25 » PC5-KI-251-6 » Don''t feed the rich: Diese Gratis-Programme (...)'
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx688a1350af8e7.html
+  - id: cmx689e164a2b05b
+    name: 2/25 » PC5-KI-252-6 » Schmeiß den Mac nicht weg!
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx689e164a2b05b.html
+  - id: cmx69023ce59509f
+    name: PC5-KI-252-4-2 » Bild- und Videobearbeitung mit der KI
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx69023ce59509f.html
+  - id: cmx691e0accefbcd
+    name: PC5-KI-252-2 (Kopie) » Mail Test
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx691e0accefbcd.html
+  - id: cmx68416330501e6
+    name: 2/25 » PC6-KI-251-1 » Memo an mich selbst
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx68416330501e6.html
+  - id: cmx6841633098f32
+    name: 2/25 » PC5-KI-251-1 » KI-Techniken für Fortgeschrittene mit (...)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx6841633098f32.html
+  - id: cmx689dc761d28fa
+    name: 2/25 » PC5-KI-252-2 » Keine Cloud, keine Limits - mit ComfyUI (...) (ausgefallen)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx689dc761d28fa.html
+  - id: cmx6841632fb41ed
+    name: 2/25 » PC3-KI-251-1 » KI-Text-bis-Buch (ausgefallen)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx6841632fb41ed.html
+  - id: cmx690200cd2dac3
+    name: 2/25 » PC5-KI-252-8 » Open statt OpenAI – KI-Assistenten (...) (ausgefallen)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx690200cd2dac3.html
+  - id: cmx689ddace7b3e4
+    name: 2/25 » PC5-KI-252-4 » Bild- und Videobearbeitung mit der KI (ausgefallen)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx689ddace7b3e4.html
+  - id: cmx6901fd896c666
+    name: 2/25 » PC5-KI-252-7 » WordPress (ausgefallen)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx6901fd896c666.html
+  - id: cmx68ee13b745e42
+    name: 2/25 » PC4-KI-252-2 » Einführung in die KI
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx68ee13b745e42.html
+  - id: cmx690203686eb9c
+    name: 2/25 » PC5-KI-251-1 (Kopie) » Online Sprechstunden DigiNetz
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx690203686eb9c.html
+  - id: cmx681b41e14bbb3
+    name: 1/25 » PC5-KI-251-1 » KI-Techniken für Fortgeschrittene mit (...)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx681b41e14bbb3.html
+  - id: cmx62ff46dbac565
+    name: 1/25 » PC5-KI-251 » Von der Frage zur perfekten Antwort (...)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx62ff46dbac565.html
+  - id: cmx6183b18f12d8b
+    name: 1/25 » PC3-KI-251 » Bücher schreiben mit ChatGPT
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx6183b18f12d8b.html
+  - id: cmx6901f3f6bd81a
+    name: 2/25 » PC4-KI-252-5 » Strukturiertes Datenmanagement (ausgefallen)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx6901f3f6bd81a.html
+  - id: cmx689da7cd64950
+    name: 2/25 » PC5-KI-252-1 » Open statt OpenAI – KI-Assistenten (...) (ausgefallen)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx689da7cd64950.html
+  - id: cmx688a1350201d3
+    name: 2/25 » PC5-KI-252-3 » Lieder für jede Lebenslage – mit (...) (ausgefallen)
+    url: https://vhs-lahnstein.de/App Veranstaltung/cmx688a1350201d3.html
