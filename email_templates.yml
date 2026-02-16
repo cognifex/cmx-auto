@@ -30,7 +30,7 @@ default:
 
   footer: |
     Weitere Kurse von mir finden Sie hier: {{instructorProfileUrl}}
-    Bei Fragen erreichen Sie mich unter: tim.heimes@cognifaktur.ai
+    Bei Fragen erreichen Sie mich unter: <INSTRUCTOR_EMAIL_PLACEHOLDER>
 
 statusTemplates:
   ausgefallen:
