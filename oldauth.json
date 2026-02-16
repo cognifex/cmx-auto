@@ -1,1 +1,8 @@
-EMPTY
+{
+  "adminNotificationEmail": "admin@example.com",
+  "login": {
+    "username": "<CMX_USERNAME>",
+    "password": "<CMX_PASSWORD>"
+  },
+  "cookies": []
+}
