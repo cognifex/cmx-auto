@@ -1,3 +1,7 @@
 .env
 cookies.json
 smtp.json
+.puppeteer-profile/
+auth.json
+oldauth.json
+oldcookies.json
